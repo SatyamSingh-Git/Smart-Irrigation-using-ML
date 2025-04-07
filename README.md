@@ -48,11 +48,15 @@ You can access the deployed models using the following links:
 
 Ensure you have Python installed, then run the following commands to install all dependencies:
 
-```bash
+
 pip install pandas numpy scikit-learn seaborn matplotlib missingno dtale streamlit
 ## 📊 Data
 
+1. **Outdoor Plants**:
 The dataset (`data set for smart irrigation system.csv`) includes various features used for intelligent irrigation decisions.
+
+2. **Indoor PLants**:
+(`synthetic_indoor_plant_data.csv`) includes various features for indoor plants
 
 ---
 
