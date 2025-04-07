@@ -65,7 +65,7 @@ The dataset (`data set for smart irrigation system.csv`) includes various featur
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/your-username/smart-irrigation-system.git
+    git clone https://github.com/your-username/smart-irrigation-system-using-ML.git
     cd smart-irrigation-system
     ```
 
